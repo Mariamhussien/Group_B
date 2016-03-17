@@ -55,19 +55,8 @@
 							  <li>
                                   <a href="index1.php">Home</a>
                              </li>
-							  <li><a href="#">Women</a>
-							    <ul>
-							      <li><a href="page.php">Women Clothes</a></li>
-							      <li><a href="#">Women Shoes</a></li>
-							      <li><a href="#">Women Accessaroies</a></li>
-							    </ul>
-							  </li>
-							  <li><a href="#">Man</a>
-							    <ul>
-							      <li><a href="page.php?id=<?php echo ($post->ID); ?>">Man Clothes</a></li>
-							      <li><a href="#">Man Shoes</a></li>
-							    </ul>
-							  </li>
+							  <li><a href="#">Women</a></li>
+							  <li><a href="#">Man</a></li>
 							  <li><a href="#">Kides</a>
 			
 							  </li>
