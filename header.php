@@ -60,7 +60,7 @@
 							  <li><a href="#">Kides</a>
 			
 							  </li>
-							   <li><a href="basket.php">My Basket</a>
+							   <li><a href="basket.php">Basket</a>
 			
 							  </li>
 							</div>
