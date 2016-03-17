@@ -1,7 +1,7 @@
-		<footer>
-    <div class=" col-lg-12 footer">
+		<footer >
+    <nav class=" col-lg-12 footer navbar navbar-fixed-bottom">
         <p> Copyright 2016</p>
-    </div>
+    </nav>
 </footer>
 <script src="js/jquery-1.12.0.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
