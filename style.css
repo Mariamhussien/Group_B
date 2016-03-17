@@ -1,0 +1,81 @@
+/*
+Theme Name: Fashonista
+Theme URI: http://www.code95.com 
+Author: Mariam Hussien
+Author URI: http://www.code95.com
+Description: This theme will display a list of production along with list of categories
+*/
+
+/*========================================================
+                    Main layout styles
+=========================================================*/
+.body{
+  font-family: 'Josefin Slab',sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  background-color:#DC143C;
+}
+
+
+#logo{
+  height: 50px;
+  width: 150px
+  margin-top:-50px ;
+  
+}
+#facebook{
+  height: 30px;
+  width: 30px;
+  margin-right: 20px;
+  position: relative;
+  left: 800px;
+  top:-35px;
+
+}
+.navbar{
+  height: 60px;
+}
+#carousel-example-generic{
+  margin-top: 60px;
+
+}
+.carousel-indicators li {
+    border: 1px solid #2A2626;
+  }
+
+.product{
+  max-width: 240px;
+  max-height: 200px;
+}
+
+
+.jumbotron{
+  height: 600px;
+}
+.img{
+  max-height: 600px;
+  max-width: 600px;
+  margin-top:-48px;
+}
+.footer{
+  height: 50px;
+background-color: #000000;
+  color: #FFFFFF;
+}
+.footer p{
+  margin-left: 500px;
+}
+.thumbnail{
+  margin-top: -35px;
+}
+.pic{
+  height: 300px;
+  margin-top: 50px;
+}
+.pic2{
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.footer{
+  position: static;
+}
